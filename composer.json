@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/photo-reviews-for-woocommerce",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/photo-reviews-for-woocommerce",
+	"authors": [
+		{
+		"name": "photo-reviews-for-woocommerce",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
